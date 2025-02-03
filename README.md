@@ -30,4 +30,4 @@ Significant shifts in voter preferences were observed in key states.
 Vote share trends indicated the rise and fall of major political parties over time.
 
 ## Analysis Dashboard
-- <a href="https://github.com/Tathagata20/Loksabha_Election_Analysis/tree/main/Dataset">Election_Dataset</a>
+- <a href="https://github.com/Tathagata20/Loksabha_Election_Analysis/blob/main/Screenshot%202025-02-03%20144049.png">Election_Dataset</a>
