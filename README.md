@@ -6,6 +6,9 @@ This project provides an in-depth comparative analysis of the election results f
 ## Project Objective
 The objective of this project is to analyze the election results of the 2014 and 2019 Lok Sabha elections in India. The analysis aims to identify voting patterns, party dominance, and constituency-level insights using Power BI. One key focus is to visualize constituencies that elected the same party in both years, along with other comparative metrics.
 
+# Data Sources
+- <a href="https://github.com/Tathagata20/Loksabha_Election_Analysis/tree/main/Dataset">Election_Dataset</a>
+
 ## Features of the Project
 Comparison of 2014 and 2019 Lok Sabha elections
 
