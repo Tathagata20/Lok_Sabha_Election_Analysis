@@ -20,3 +20,11 @@ Interactive Power BI dashboard for data exploration
 Power BI for interactive visualizations
 
 GitHub for version control and project sharing
+
+## Results & Insights
+
+Many constituencies exhibited strong loyalty to a particular party across both elections.
+
+Significant shifts in voter preferences were observed in key states.
+
+Vote share trends indicated the rise and fall of major political parties over time.
