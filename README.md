@@ -23,11 +23,13 @@ GitHub for version control and project sharing
 
 ## Results & Insights
 
-Many constituencies exhibited strong loyalty to a particular party across both elections.
+BJP won both 2014 and 2019 elections with 268 and 301 seats respectively.
+
+Many constituencies exhibited strong loyalty to a particular party like BJP across both elections.
 
 Significant shifts in voter preferences were observed in key states.
 
-Vote share trends indicated the rise and fall of major political parties over time.
+Vote share trends indicated the rise and fall of major political parties like CPM ADMK over time.
 
 ## Analysis Dashboard
 - <a href="https://github.com/Tathagata20/Loksabha_Election_Analysis/blob/main/Screenshot%202025-02-03%20144049.png">Election_Dashboard</a>
